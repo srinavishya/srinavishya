@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Srinavishya
 
-<!--
-**srinavishya/srinavishya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Robotics & AI Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year Robotics and Artificial Intelligence student at PSG Institute of Technology and Applied Research, passionate about coding, Computer Science, and software development.
+
+## 👨‍💻 About Me
+- 🎓 Pursuing Robotics and Artificial Intelligence.
+- 💻 Interested in Software Development and Computer Science.
+- 🐍 Currently learning Python and C.
+- 🤖 Exploring Artificial Intelligence and Robotics.
+- 🧠 Interested in problem-solving and building practical projects.
+- 🌱 Always curious and eager to learn new technologies.
+
+## 🛠️ Languages I'm Learning
+- Python
+- C
+
+## 🎯 My Goals
+- Strengthen my programming fundamentals.
+- Improve my problem-solving skills.
+- Explore software development.
+- Build practical projects combining software and robotics.
+
+## 🤝 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Always Learning | Always Exploring | Always Building* 🚀
