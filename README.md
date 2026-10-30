@@ -14,10 +14,17 @@ I'm a first-year Robotics and Artificial Intelligence student at PSG Institute o
 - 🧠 Interested in problem-solving and building practical projects.
 - 🌱 Always curious and eager to learn new technologies.
 
-## 🛠️ Languages I'm Learning
+## 💻 Languages I'm Learning
 
-![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
-![C](https://img.shields.io/badge/C-Learning-blue?logo=c)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+</p>
+
+- **C** – Learning programming fundamentals and problem-solving.
+- **C++** – Learning core concepts and developing small programs.
+- **Python** – Learning programming concepts and building my coding skills.
 
 ## 🎯 My Goals
 - Strengthen my programming fundamentals.
@@ -32,4 +39,4 @@ I'm a first-year Robotics and Artificial Intelligence student at PSG Institute o
 
 ⭐ Thanks for visiting my profile!
 
-*Always Learning | Always Exploring | Always Building* 🚀
+*Always Learning, Exploring, Building something new* 🚀
