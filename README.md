@@ -15,8 +15,9 @@ I'm a first-year Robotics and Artificial Intelligence student at PSG Institute o
 - 🌱 Always curious and eager to learn new technologies.
 
 ## 🛠️ Languages I'm Learning
-- Python
-- C
+
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
+![C](https://img.shields.io/badge/C-Learning-blue?logo=c)
 
 ## 🎯 My Goals
 - Strengthen my programming fundamentals.
