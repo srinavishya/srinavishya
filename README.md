@@ -26,6 +26,15 @@ I'm a first-year Robotics and Artificial Intelligence student at PSG Institute o
 - **C++** – Learning core concepts and developing small programs.
 - **Python** – Learning programming concepts and building my coding skills.
 
+## 🚀 Interests & What I'm Exploring
+
+- 💻 **Software Development** – Exploring programming, building applications and understanding how software works.
+- 🧩 **Problem Solving** – Developing logical thinking, analytical skills and computational problem-solving abilities.
+- 🧠 **Artificial Intelligence** – Exploring intelligent systems and the possibilities of AI.
+- 🌐 **Emerging Technologies** – Staying curious about new technologies, innovations and future possibilities.
+- 📚 **Computer Science** – Strengthening my fundamentals and exploring different areas of computing.
+- 🤖 **Software Meets Robotics** – Exploring how programming and AI can bring intelligent systems to life.
+
 ## 🎯 My Goals
 - Strengthen my programming fundamentals.
 - Improve my problem-solving skills.
